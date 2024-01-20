@@ -2,7 +2,7 @@
 
 La memoria è uno dei due componenti principali di un elaboratore elettronico, insieme alla CPU.
 
-Quando parliamo di memoria in questo capitolo, intendiamo sempre la _memoria primaria_, quella a cui il processore ha accesso diretto; generalmente è costituita dalla RAM, ovvero _Random Access Memory_, che si può traddure in _memoria ad accesso casuale_ o meglio in _memoria ad accesso non sequenziale_.
+Quando parliamo di memoria in questo capitolo, intendiamo sempre la _memoria primaria_, quella a cui il processore ha accesso diretto; generalmente è costituita dalla RAM, ovvero _Random Access Memory_, che si può tradure in _memoria ad accesso casuale_ o meglio in _memoria ad accesso non sequenziale_.
 
 <div>
 <p align="center">

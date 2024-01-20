@@ -69,3 +69,5 @@ ret
 ```
 
 Il comando `pop` riassegna nuovamente al registro `rbp` il valore salvato nel comando `push`, infine il comando `ret` fa saltare l'esecuzione alla funzione che ha chiamato.
+
+Ricordiamo che il valore ritornato dalla funzione è sempre all'interno del registro `eax`.
