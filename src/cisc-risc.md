@@ -18,6 +18,9 @@ Un altro fattore da tenere in considerazione è la potenza consumata, che viene 
 
 \\[ Energia = Potenza * Tempo \\]
 
-Le architetture RISC hanno una potenza dissipata molto minore rispetto alle architetture CISC, anche se il tempo può essere un po' maggiore, quindi le rendono una scelta quasi obbligata per i dispositivi mobile.
+Le architetture RISC hanno una potenza dissipata molto minore rispetto alle architetture CISC, anche se il tempo può essere un po' maggiore, quindi le rendono una scelta quasi obbligata per i dispositivi mobile. Anche per i data center, un minore consumo di energia vuol dire risparmiare sui costi di gestione, sia sull'alimentazione diretta dei server che per il sistema di raffreddamento.
+
+> I data center consumano moltissima energia e sono a rischio incendio. Un incidente abbastanza recente è stato quello del gestore OVH a Strasburgo, in Francia.
+![OVH fire](https://media.datacenterdynamics.com/media/images/sdis_67_ovhcloud_fire.width-358.jpg)
 
 In generale, negli ultimi anni stiamo vedendo un vantaggio competitivo netto del RISC rispetto a CISC, che ne stanno determinando una sempre maggiore diffusione.
