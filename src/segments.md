@@ -10,7 +10,7 @@ La memoria assegnata ad un certo processo è divisa in _segmenti_, ovvero porzio
 | ...        |  |
 | 0x7FFFFFFFFFFF |Stack|
 
-## Segmento del codice
+## Segmento del codice (text)
 
 La prima porzione di memoria contiene le istruzioni che dovranno essere eseguite durante il processo; questo settore viene chiamato _code_ o anche _text_. Le istruzioni vengono memorizzate in memoria in accordo con l'architettura specifica del processore, e possono essere visualizzate in maniera comprensibile all'essere umano attraverso la rappresentazione Assembly.
 
