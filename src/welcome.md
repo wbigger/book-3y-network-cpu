@@ -6,7 +6,7 @@ In queste dispense vedremo come funziona una CPU, in particolare la traduzione i
 
 Materiale di studio per il compito in classe:
 - queste dispense
+- gli [appunti integrativi](https://docs.google.com/document/d/11TkipwdNsjUoF7ZKKMSus30GCj45hgUuExDDNIY33uQ/edit?usp=sharing)
 - pagine del libro da 121 a 134 (Unità 3)
-- vi può essere utile consultare anche questi [appunti integrativi](https://docs.google.com/document/d/11TkipwdNsjUoF7ZKKMSus30GCj45hgUuExDDNIY33uQ/edit?usp=sharing)
 
 > Il libro di testo adottato è _"INTERNETWORKING - VOLUME 3 - ED 2021"_, E.Baldino et al., ed. JUVENILIA. 
